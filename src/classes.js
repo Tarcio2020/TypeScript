@@ -16,3 +16,4 @@ function teste() {
 }
 const resultadoDeTeste = teste();
 console.log(calculaArea(15, 10));
+teste();

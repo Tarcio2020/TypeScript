@@ -17,3 +17,7 @@ Para retirar esse padrão.
         let idade: any = 25:
         toFixed() 
     }
+
+compilar automaticamente
+
+    npx tsc --watch
